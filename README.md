@@ -30,3 +30,4 @@ scenario takes less than 30 seconds. Due to its computational efficiency, the pr
 
 # Citation
 Paper title: Linear storage and flexibility model with ramp rate, ramping, deadline and capacity constraints
+Conference: IEEE PES ISGT Europe 2024 (ISGT Europe 2024)
